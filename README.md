@@ -7,7 +7,7 @@ tags: OpenAI;API
 
 > 这个博客主要是关于如何利用`OpenAI` 官方新推出的`API`的功能。 关于最新功能的介绍。对应的项目链接可以参考[GitHub链接](https://github.com/linkedlist771/OpenAI-New_API-Capacities)。
 >
-> `email`: 213193509seu@gmai.com
+> `email`: 213193509seu@gmail.com
 >
 > `语言框架`: python
 >
